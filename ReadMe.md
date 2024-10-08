@@ -1,5 +1,23 @@
 # 💫 About Me:
-I'm currently working on:<br><br>Advancing NLP techniques through Twitter sentiment analysis<br>Applying Vision Transformers to EEG datasets for neural signal processing<br>Optimizing vehicle detection and classification using YOLOv3<br><br>🌱 I'm currently learning:<br><br>Deep learning architectures for computer vision and natural language processing<br>Advanced algorithms for recommendation systems<br><br>👯 I'm looking to collaborate on:<br><br>Innovative AI projects combining NLP and computer vision<br>Performance optimization for machine learning models<br>Open-source tools for data analysis and visualization<br><br>🤔 I'm seeking help with:<br><br>Scaling machine learning models for production environments<br>Integrating cutting-edge AI research into practical applications
+I'm currently working on:
+
+- Applying Vision Transformers to EEG datasets for neural signal processing
+- Exploring transformer models for time-series analysis in EEG data
+
+🌱 I'm currently learning:
+
+- Deep learning architectures for time-series analysis
+- Advanced techniques for EEG signal processing
+
+👯 I'm looking to collaborate on:
+
+- Innovative AI projects focused on EEG data analysis
+- Performance optimization of transformer models for neural signal processing
+
+🤔 I'm seeking help with:
+
+- Scaling transformer models for production environments
+- Applying cutting-edge research in neural signal processing to practical applications
 
 
 ## 🌐 Socials:
